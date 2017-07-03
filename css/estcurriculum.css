@@ -1,0 +1,157 @@
+/* Inicio de body */
+
+	body {
+		background: #b5b2b7;
+		width: 80%; 
+		margin: 0 auto;
+	}
+
+/*Fin de Body */
+
+/* Inicio de Perfil */
+
+	#Perfil  {
+		width: 20%;
+		float: left;
+		margin-top: 30px;
+		position: fixed;
+
+	}
+
+	#Perfil a{
+	  background-color: #eeb8fc;
+	  padding: 20px;
+	  margin-top: 10px;
+	  margin-right: 40px;
+	  margin-left: 40px;
+	  margin-bottom: 3px;
+	  border-radius: 5px;
+	  display: block;
+	  text-align: center;
+
+	}
+
+	#Menu li {
+		margin-top: 20px;
+		
+		}
+
+	.perfil { 
+		width: 235px;
+		height: 270px;
+		margin-bottom:30px;
+		}
+
+	h2 {
+		color: purple;
+		border-bottom: 2px solid purple;
+		font-family: Calibri; 
+		font-size: 27px;
+	}
+
+	ul, li, a{
+		font-family: 'Dosis', sans-serif;
+		text-transform: uppercase;
+		list-style: none;
+		padding-left: 0px;
+		color: purple;
+		font-size: 17px;
+
+	}
+
+/*Fin de perfil */
+
+/*Inicio de contenido */
+
+	#contenido {
+		float: right;
+		width: 75%;
+	}
+
+	h2 {
+		color: purple;
+		border-bottom: 2px solid purple;
+		font-family: Calibri; 
+		font-size: 27px;
+	}
+
+/*Inicio de presentación*/
+	
+	#Presentacion {
+		background-color: #eeb8fc;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 15px;
+		padding: 10px;
+	}
+
+	#Presentacion ul {
+		font-size: 20px;
+	}
+
+	h1 {
+		font-size: 38px;
+		font-family: Cambria;
+		color: purple;
+		text-transform: uppercase;
+		}
+
+	h4 {
+		font-family: 'Dosis', monospace;
+		font-size: 15px;
+		color: #b162e5;
+	}
+
+	#datoss li {
+		font-family: 'Dosis', sans-serif;
+		text-transform: uppercase;
+		border-bottom: 1px dotted black;
+		font-size: 17px;
+		color: black;
+		}
+
+	#Formacion 	{
+		background-color: #eeb8fc;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 15px;
+		padding: 10px;
+	}
+
+	#ExperienciaLab {
+		background-color: #eeb8fc;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 15px;
+		padding: 10px;
+	}
+
+	#Portfolio {
+		background-color: #eeb8fc;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 15px;
+		padding: 10px;
+	}
+
+/*Fin de presentación*/
+
+	p {
+		font-family: 'Josefin Sans', monospace;
+		font-size: 17px;
+
+	}
+
+	.portfolio {
+		width: 500px;
+		height: 300px;
+	
+	}
+
+	#Portfolio li {
+		text-align: center;
+	}
+
+/*Fin de contenido */
+
+
